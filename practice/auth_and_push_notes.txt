@@ -1,0 +1,16 @@
+Student Name: Malak Louardi
+GitHub Username: Angelcode2005
+
+Authentication method I used: SSH
+
+Why I chose this method:
+I chose SSH because it allows me to authenticate with GitHub without entering my username and password every time. It also works well with Git for pushing and pulling repositories securely.
+
+One security habit I must follow with this method:
+I must keep my private SSH key secure and never share it with anyone. I should also protect my computer and use a passphrase for my SSH key when possible.
+
+Difference between a commit and a push:
+A commit saves my staged changes as a new version in my local Git repository. A push sends my local commits to the remote repository on GitHub. A commit can be created without an internet connection, while a push needs to communicate with GitHub. Therefore, committing records the changes locally, while pushing makes those commits available on GitHub.
+
+My repository URL:
+https://github.com/Angelcode2005/SE103-Week4
