@@ -1,7 +1,7 @@
 Student Name: Malak Louardi
 GitHub Username: Angelcode2005
 Repository: SE103-Week4
-Repository URL: https://github.com/Angelcode2005/SE103-Week5
+Repository URL: https://github.com/Angelcode2005/SE103-Week4
 
 What I understand better about algorithms now:
 I understand that an algorithm needs clear and ordered steps to solve a problem. I learned how to describe inputs, outputs, decisions, loops, and edge cases using pseudocode. I also understand that vague instructions can cause confusion when an algorithm is implemented. Writing precise pseudocode makes the intended solution easier to understand and follow. I can now think about different possible inputs before writing actual code.
