@@ -1,0 +1,22 @@
+Student Name: Malak Louardi
+Name list: ["Salma", "Fadwa", "Aicha"]
+
+Trace 1 - target "Fadwa":
+
+1. The list is not empty, so set found to false.
+2. Check "Salma": it does not match "Fadwa", so continue.
+3. Check "Fadwa": it matches the target, so set found to true.
+4. Display "Found" and stop the loop.
+   Result: Found
+
+Trace 2 - target "Omar":
+
+1. The list is not empty, so set found to false.
+2. Check "Salma": it does not match "Omar", so continue.
+3. Check "Fadwa": it does not match "Omar", so continue.
+4. Check "Aicha": it does not match "Omar", so continue.
+5. The list is finished and found is still false, so display "Not found".
+   Result: Not found
+
+Empty list input: []
+Empty list result: Error: list is empty
