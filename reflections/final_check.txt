@@ -1,0 +1,15 @@
+Student Name: Malak Louardi
+GitHub Username: Angelcode2005
+Repository: SE103-Week4
+Repository URL: https://github.com/Angelcode2005/SE103-Week4
+
+What a pull request asks teammates to do:
+A pull request asks teammates to review the changes made in a branch before they are merged into the main branch. It gives reviewers a chance to check the work and provide feedback.
+
+Why branches and pull requests are used together:
+Branches allow developers to work on changes separately from the main branch. Pull requests then provide a way to review those changes before merging them into the main project.
+
+One thing that confused me in this project and how I solved it:
+One thing that confused me was the difference between committing changes and pushing them to GitHub. I learned that a commit saves changes in my local Git repository, while a push sends those commits to GitHub. I also learned that branches can be used to work safely without changing main directly. Checking the repository and following the Git commands helped me understand the process.
+
+All required files are on main: Yes
