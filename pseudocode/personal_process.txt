@@ -1,0 +1,32 @@
+Student Name: Malak Louardi
+
+Problem:
+I need to prepare my study session so I can start studying on time and have everything I need ready.
+
+Input:
+My study schedule, study materials, a quiet place, and enough time to study.
+
+Output:
+A completed study session with the planned study work finished.
+
+Edge Case Handled:
+If I do not have enough time for the planned study session, I reduce the number of tasks and focus on the most important one.
+
+Pseudocode:
+START
+
+1. Check my study schedule.
+2. Choose the most important task for the study session.
+3. Prepare my notebook, computer, and other study materials.
+4. Find a quiet place to study.
+5. Check how much time I have available.
+6. IF I have enough time to complete the planned tasks THEN
+   Start studying and complete the tasks in order.
+   ELSE
+   Choose the most important task and focus on completing it.
+7. Review what I completed.
+8. Save my work and prepare the materials for the next study session.
+   END
+
+Why this is clear enough to follow:
+The steps are arranged in the order I would normally complete them. Each step describes one clear action instead of combining several actions together. The IF/ELSE decision explains what to do when there is not enough time. Another person could follow these steps and understand what should be prepared, what to do during the session, and what the final result should be.
