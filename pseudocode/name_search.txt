@@ -1,0 +1,30 @@
+Student Name: Malak Louardi
+
+Problem:
+Search a list of names for one target name and report whether it was found.
+
+Input:
+
+- a list of names
+- one target name
+
+Output:
+
+- "Found" or "Not found"
+- or an error if the list is empty
+
+Pseudocode:
+START
+
+1. IF the list of names is empty THEN
+   Display "Error: list is empty"
+   ELSE
+   Set found to false.
+2. FOR each name in the list:
+   IF the name is equal to the target name THEN
+   Set found to true.
+   Display "Found".
+   STOP the loop.
+3. IF found is false THEN
+   Display "Not found".
+   END
